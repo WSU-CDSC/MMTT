@@ -24,11 +24,13 @@ This workflow requires at least two programs:
 ## Create a field settings list 
 - If this is your first time working with MARC records from a particular repository, collection, or other source, we recommend including every field from the field count report so that none are missed. Unneeded fields can be easily removed from a Mukurtu Core spreadsheet before import.
 - This can be done manually
-- See [sample field settings 01.txt](sample field settings 01.txt) for an example with subfields and [sample field settings 02.txt](MARC > Mukurtu Core/sample field settings 02.txt) for an example without subfields.
+- See [sample field settings 01.txt]([sample field settings 01.txt](https://github.com/WSU-CDSC/MMTT/blob/c79d8f6973352c9774d57f31b3fc7d419d089748/MARC%20%3E%20Mukurtu%20Core/sample%20field%20settings%2001.txt)) for an example with subfields and [sample field settings 02.txt]([MARC > Mukurtu Core/sample field settings 02.txt](https://github.com/WSU-CDSC/MMTT/blob/c79d8f6973352c9774d57f31b3fc7d419d089748/MARC%20%3E%20Mukurtu%20Core/sample%20field%20settings%2002.txt)) for an example without subfields.
 
-## Export MRC to tab-delimited records 
--
+## Export MARC to tab-delimited records 
 - https://www.youtube.com/watch?v=qkzJmNOvY00
+- Load the field settings list generated earlier.
+- Ensure that *Delimiter* is set to comma (,) and *In-Field Delimiter* is set to semicolon (;)
+  - ![Tab-delimited export settings](https://github.com/WSU-CDSC/MMTT/blob/262964aa6488e6b1d5df0f8d83f22c6435417b0e/MARC%20%3E%20Mukurtu%20Core/Workflow%20Images/Screen%20Shot%202022-06-30%20at%202.07.46%20PM.png)
 
 ## Rename MARC fields to Mukurtu Core
 - https://mukurtu.org/support/digital-heritage-metadata-fields-2-1/  
