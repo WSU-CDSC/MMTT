@@ -24,7 +24,7 @@ This workflow requires at least two programs:
 ## Create a field settings list 
 - If this is your first time working with MARC records from a particular repository, collection, or other source, we recommend including every field from the field count report so that none are missed. Unneeded fields can be easily removed from a Mukurtu Core spreadsheet before import.
 - This can be done manually
-- See [sample field settings 01.txt](MARC > Mukurtu Core/sample field settings 01.txt) for an example with subfields and [sample field settings 02.txt](MARC > Mukurtu Core/sample field settings 02.txt) for an example without subfields.
+- See [sample field settings 01.txt](sample field settings 01.txt) for an example with subfields and [sample field settings 02.txt](MARC > Mukurtu Core/sample field settings 02.txt) for an example without subfields.
 
 ## Export MRC to tab-delimited records 
 -
