@@ -11,9 +11,9 @@ This workflow requires at least two programs:
 - https://www.youtube.com/watch?v=wOIL435CxMI
 
 ## Generate a field count report 
-![MarcEdit - Tools](../Workflow Images/Screen Shot 2022-06-30 at 2.03.33 PM.png)
-![MarcEdit - Generate field count report](./MARC > Mukurtu Core/Workflow Images/Screen Shot 2022-06-30 at 2.03.53 PM.png)
-![MarcEdit - field countr report example](../MARC > Mukurtu Core/Workflow Images/Screen Shot 2022-07-18 at 12.24.51 PM.png)
+![MarcEdit - Tools](https://github.com/WSU-CDSC/MMTT/blob/7acf1d93872697b5ca65448c145897fa4e7f2f06/MARC%20%3E%20Mukurtu%20Core/Workflow%20Images/Screen%20Shot%202022-06-30%20at%202.03.33%20PM.png)
+![MarcEdit - Generate field count report](https://github.com/WSU-CDSC/MMTT/blob/7acf1d93872697b5ca65448c145897fa4e7f2f06/MARC%20%3E%20Mukurtu%20Core/Workflow%20Images/Screen%20Shot%202022-06-30%20at%202.03.53%20PM.png)
+![MarcEdit - field countr report example](https://github.com/WSU-CDSC/MMTT/blob/7acf1d93872697b5ca65448c145897fa4e7f2f06/MARC%20%3E%20Mukurtu%20Core/Workflow%20Images/Screen%20Shot%202022-07-18%20at%2012.24.51%20PM.png)
 
 ## Create a field settings list 
 
