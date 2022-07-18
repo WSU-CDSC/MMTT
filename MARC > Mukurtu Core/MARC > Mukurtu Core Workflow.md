@@ -1,15 +1,5 @@
 # Converting LOC-AFC provided MRC to Mukurtu CSV format 
 
-## Table of Contents
-- [Convert MARC XML to MRC](#id-section1)
-- [Join multiple MRC records](#id-section2)
-- [Generate field count report](#id-section3)
-- [Create field settings list](#id-section4)
-- [Export MRC to tab-delimited records](#id-section5)
-- [Crosswalk MRC to Mukurtu Core](#id-section6)
-- [Format fields for Mukurtu import](#id-section7)
-- [Add remaining required fields for Mukurtu import](#id-section8)
-
 This workflow requires at least two programs: 
 - MarcEdit: https://marcedit.reeset.net/downloads 
 - A spreadsheet editor of your choice that properly supports UTF-8 encoded CSV files. We recommend something other than Microsoft Excel – see more information here: https://mukurtu.org/support/file-formats-character-encoding-and-spreadsheet-tools/  
