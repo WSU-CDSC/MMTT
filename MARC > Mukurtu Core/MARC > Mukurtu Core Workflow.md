@@ -1,4 +1,4 @@
-# Converting LOC-AFC provided MRC to Mukurtu CSV format 
+# Converting LOC-AFC provided MARC records to Mukurtu Core CSV 
 
 This workflow requires at least three programs: 
 - MarcEdit: https://marcedit.reeset.net/downloads 
