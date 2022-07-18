@@ -16,8 +16,7 @@ This workflow requires at least three programs:
 ## Generate a field count report 
 - Not required if you already know which fields you will be mapping from MARC to Mukurtu Core. If you are not sure which fields you will be using, or otherwise want a complete listing of every field used in the MARC records, this is a useful step.
 - Tools > Generate Reports > Field Count Report
-  - ![MarcEdit - Tools](https://github.com/WSU-CDSC/MMTT/blob/7acf1d93872697b5ca65448c145897fa4e7f2f06/MARC%20%3E%20Mukurtu%20Core/Workflow%20Images/Screen%20Shot%202022-06-30%20at%202.03.33%20PM.png)
-  - ![MarcEdit - Generate field count report](https://github.com/WSU-CDSC/MMTT/blob/7acf1d93872697b5ca65448c145897fa4e7f2f06/MARC%20%3E%20Mukurtu%20Core/Workflow%20Images/Screen%20Shot%202022-06-30%20at%202.03.53%20PM.png)
+     ![MarcEdit - Generate field count report](https://github.com/WSU-CDSC/MMTT/blob/7acf1d93872697b5ca65448c145897fa4e7f2f06/MARC%20%3E%20Mukurtu%20Core/Workflow%20Images/Screen%20Shot%202022-06-30%20at%202.03.53%20PM.png)
 - A .txt file will be exported. See [sample field count report.txt](https://github.com/WSU-CDSC/MMTT/blob/c79d8f6973352c9774d57f31b3fc7d419d089748/MARC%20%3E%20Mukurtu%20Core/sample%20field%20count%20report.txt) for an example.
 
 ## Create a field settings list 
@@ -31,7 +30,7 @@ This workflow requires at least three programs:
 - https://www.youtube.com/watch?v=qkzJmNOvY00
 - Load the field settings list generated earlier.
 - Ensure that *Delimiter* is set to comma (,) and *In-Field Delimiter* is set to semicolon (;)
-  - ![Tab-delimited export settings](https://github.com/WSU-CDSC/MMTT/blob/262964aa6488e6b1d5df0f8d83f22c6435417b0e/MARC%20%3E%20Mukurtu%20Core/Workflow%20Images/Screen%20Shot%202022-06-30%20at%202.07.46%20PM.png)
+     ![Tab-delimited export settings](https://github.com/WSU-CDSC/MMTT/blob/262964aa6488e6b1d5df0f8d83f22c6435417b0e/MARC%20%3E%20Mukurtu%20Core/Workflow%20Images/Screen%20Shot%202022-06-30%20at%202.07.46%20PM.png)
 
 ## Align MARC fields with Mukurtu Core
 - Mukurtu requires that all field names match those specified in the importer.
