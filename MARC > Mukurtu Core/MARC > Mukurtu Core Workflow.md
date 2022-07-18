@@ -11,7 +11,7 @@ This workflow requires at least two programs:
 - https://www.youtube.com/watch?v=wOIL435CxMI
 
 ## Generate a field count report 
-[MarcEdit - Tools](/Workflow Images/Screen Shot 2022-06-30 at 2.03.33 PM.png)
+![MarcEdit - Tools](./Workflow Images/Screen Shot 2022-06-30 at 2.03.33 PM.png)
 ![MarcEdit - Generate field count report](/MARC > Mukurtu Core/Workflow Images/Screen Shot 2022-06-30 at 2.03.53 PM.png)
 ![MarcEdit - field countr report example](/MARC > Mukurtu Core/Workflow Images/Screen Shot 2022-07-18 at 12.24.51 PM.png)
 
