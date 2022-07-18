@@ -19,10 +19,12 @@ This workflow requires at least two programs:
   - ![MarcEdit - Generate field count report](https://github.com/WSU-CDSC/MMTT/blob/7acf1d93872697b5ca65448c145897fa4e7f2f06/MARC%20%3E%20Mukurtu%20Core/Workflow%20Images/Screen%20Shot%202022-06-30%20at%202.03.53%20PM.png)
 - A .txt file will be exported.
   - ![MarcEdit - field countr report example](https://github.com/WSU-CDSC/MMTT/blob/7acf1d93872697b5ca65448c145897fa4e7f2f06/MARC%20%3E%20Mukurtu%20Core/Workflow%20Images/Screen%20Shot%202022-07-18%20at%2012.24.51%20PM.png)
+- See [sample field count report.txt](https://github.com/WSU-CDSC/MMTT/blob/c79d8f6973352c9774d57f31b3fc7d419d089748/MARC%20%3E%20Mukurtu%20Core/sample%20field%20count%20report.txt) for an example.
 
 ## Create a field settings list 
 - If this is your first time working with MARC records from a particular repository, collection, or other source, we recommend including every field from the field count report so that none are missed. Unneeded fields can be easily removed from a Mukurtu Core spreadsheet before import.
 - This can be done manually
+- See [sample field settings 01.txt](MARC > Mukurtu Core/sample field settings 01.txt) for an example with subfields and [sample field settings 02.txt](MARC > Mukurtu Core/sample field settings 02.txt) for an example without subfields.
 
 ## Export MRC to tab-delimited records 
 -
