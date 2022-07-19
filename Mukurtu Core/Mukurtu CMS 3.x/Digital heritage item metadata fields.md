@@ -1,6 +1,7 @@
 # Mukurtu Essentials
 Title
 - A short, descriptive name for the Digital Heritage Item. Each Title does not have to be unique, but should give users useful information about the item when browsing or searching.
+
 Summary
 - A brief description of the Digital Heritage Item, limited to 255 characters. The summary is displayed with the Digital Heritage Item teaser when browsing, and can help distinguish between items with similar or identical titles. Other fields allow for longer, more in depth description.
 Media Assets
