@@ -34,7 +34,7 @@ This workflow requires at least three programs:
 
 ## Align MARC fields with Mukurtu Core
 - Mukurtu requires that all field names match those specified in the importer.
-  - https://mukurtu.org/support/digital-heritage-metadata-fields-2-1/  
+  - [https://mukurtu.org/support/digital-heritage-metadata-fields-2-1/  ](https://github.com/WSU-CDSC/MMTT/blob/main/Mukurtu%20Core/Mukurtu%20CMS%203.x/Digital%20heritage%20item%20field%20format%20information.md)
 - For fields with an obvious one-to-one match, replace the column header with the correct Mukurtu Core field name. 
   - Eg: 245 usually maps closely to Title.
 - Additional manual processing may be required, depending on how closely the MARC fields align with Mukurtu Core. This generally needs to be assessed on a case by case basis. Examples include:
@@ -56,7 +56,7 @@ This workflow requires at least three programs:
 
 ## Format fields for Mukurtu import 
 - Certain fields require specfific formatting or values for successful import.
-  - See https://mukurtu.org/support/digital-heritage-metadata-fields-2-1/ for more detail.
+  - See [https://mukurtu.org/support/digital-heritage-metadata-fields-2-1/](https://github.com/WSU-CDSC/MMTT/blob/main/Mukurtu%20Core/Mukurtu%20CMS%203.x/Digital%20heritage%20item%20field%20format%20information.md) for more detail.
 - Plain text 
 - Multi-value taxonomy 
 - Rich text 
