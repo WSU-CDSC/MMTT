@@ -5,7 +5,7 @@ situations where you do not know the internal ID of a piece of content. This fie
 be nearly anything as long as it is unique to the content across the entire system.
 
 nid
-N- ID stands for ‘Node ID’ and uniquely identifies a Node (e.g., Digital Heritage,
+- NID stands for ‘Node ID’ and uniquely identifies a Node (e.g., Digital Heritage,
 Dictionary Word) on a specific site . This field must only contain a single integer
 value. Node IDs are not consistent between sites.
 
