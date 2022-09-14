@@ -6,7 +6,7 @@ To request media files and/or corresponding metadata please follow these steps t
 1. Initial contact should be made through the Ask a Librarian service.  
 2. From the landing page, you can direct your request towards a specific division by picking a subject and format in the “Ask a Specialist” tab. One exception is the American Folklife Center, which is listed under “Programs & Services.”  
 
-![LOC01](/../images/loc_askalibrarian_homepage.png)
+![LOC01](images/loc_askalibrarian_homepage.png)
  
 For example, if you were to choose “Manuscripts” under “Subjects & Formats,” the form would look as follows:  
 
