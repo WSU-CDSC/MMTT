@@ -39,7 +39,7 @@ Be aware that there is no option to include attachments to this form. If you wan
 
 6. The response will come from the specific division through the Ask a Librarian service. Once you have received this, reply above the dotted line and attach your spreadsheet (or whatever form your tracking documentation is in) indicating the list of the materials you are requesting.  
 
-![LOC03](images/LOC_Ask a Librarian_Reply_1.png) 
+![LOC03](images/LOC_Ask_Librarian_Reply_1.png)
 
 7. Once you have submitted your full request, a reference staff member will be in touch with any follow-up questions or needs.  
 
