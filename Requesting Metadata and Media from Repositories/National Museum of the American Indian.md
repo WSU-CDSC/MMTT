@@ -13,7 +13,7 @@ To request media files and/or corresponding metadata please follow these steps t
 3. The Reference Archivist will follow up by email with any questions, and likely acknowledge receipt of the request. They will then liaise with Smithsonian staff to fulfill your request. 
 4. You will receive your requested materials from the Reference Archivist via email, which will contain a Dropbox link for all media files and/or an attached Excel spreadsheet for all metadata. 
 
-**_Things to Keep in Mind:_ For inquiries about object collections, the Reference Archivist will connect you with Kara Lewis, the Collections Information System Administrator/Analyst for NMAI. Although the requested media files and metadata will likely come from the Reference Archivist, Kara may be in touch with you directly as well.**
+*__Things to Keep in Mind:__ For inquiries about object collections, the Reference Archivist will connect you with Kara Lewis, the Collections Information System Administrator/Analyst for NMAI. Although the requested media files and metadata will likely come from the Reference Archivist, Kara may be in touch with you directly as well.*
 
 ## Additional Resources 
 - Digital Image Requests  
