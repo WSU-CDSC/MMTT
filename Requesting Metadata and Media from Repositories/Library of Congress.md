@@ -95,5 +95,5 @@ Note that once the form is submitted, you will receive the following automated e
 - Duplication Services at the Library of Congress 
   - https://www.loc.gov/duplicationservices/  
 - Products & Pricing – Duplication Services at the Library of Congress 
- - https://www.loc.gov/duplicationservices/products-pricing/   
-  - Select tabs at the top to see pricing information for different material formats
+  - https://www.loc.gov/duplicationservices/products-pricing/   
+    - Select tabs at the top to see pricing information for different material formats
