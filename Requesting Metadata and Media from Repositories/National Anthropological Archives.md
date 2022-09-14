@@ -12,7 +12,7 @@ To request media files and/or corresponding metadata please follow these steps t
 3. A staff member will follow up by email with any questions, and likely acknowledge receipt of the request. They will then liaise with Smithsonian staff to fulfill your request.  
 4. You will receive your requested materials via email, either as an attachment or containing a Dropbox link.  
 
-**_Things to Keep in Mind:** The return time for these requests varies and depends both on the nature of the request and the capacity of the repository at any given moment. This is particularly important to keep in mind if your project is time sensitive._
+*__Things to Keep in Mind:__ The return time for these requests varies and depends both on the nature of the request and the capacity of the repository at any given moment. This is particularly important to keep in mind if your project is time sensitive.*
 
 ## Additional Resources 
 - Rights and Reproduction Information (including additional information on making digital image requests)  
